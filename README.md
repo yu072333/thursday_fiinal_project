@@ -1,5 +1,8 @@
 # thursday_fiinal_project
 
+
+Sheet:https://docs.google.com/spreadsheets/d/18rT0H_T6YIXXnzqdypWrF5SfGpNNPvdwvCHF5XPkP6g/edit?usp=sharing
+
 # 🎬 觀影手帳 Pro（Movie Diary Pro）
 
 一個結合 **AI 電影推薦 × 個人觀影資料庫 × 收藏與評分系統** 的互動式 Web App。  
