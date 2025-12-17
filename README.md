@@ -3,6 +3,11 @@
 
 Sheet:https://docs.google.com/spreadsheets/d/18rT0H_T6YIXXnzqdypWrF5SfGpNNPvdwvCHF5XPkP6g/edit?usp=sharing
 
+github:https://github.com/yu072333/thursday_fiinal_project/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E6%A1%88.ipynb
+
+影片說明:https://www.youtube.com/watch?v=BhRn4wHYm98
+
+
 # 🎬 觀影手帳 Pro（Movie Diary Pro）
 
 一個結合 **AI 電影推薦 × 個人觀影資料庫 × 收藏與評分系統** 的互動式 Web App。  
